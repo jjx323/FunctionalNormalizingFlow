@@ -1,6 +1,6 @@
 # Code for Functional Normalizing Flows
 ## Overview
-The program relies on FEniCS (Version 2019.1.0) and PyTorch (Version 1.10.0).
+The program relies on FEniCS (Version 2019.1.0) and PyTorch (Version 1.10.0). These codes provide implementations of the method, named Functionl Normalizing Flow, proposed in the paper **https://arxiv.org/abs/2411.13277**
 
 1.The whole code is divided into three parts, namely 1D problem, 2D problem and conditional flow, which correspond to the 1D problem, the 2D problem in Section 4,  and the numerical experiment results of conditional functional normalizing flow in Section 5. Some files with identical names appear in multiple folders. While these files share similar functionalities, their specific implementations may vary across different contexts.
 
